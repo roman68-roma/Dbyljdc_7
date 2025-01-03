@@ -6,7 +6,7 @@
 
 > **Termux**
 >
-> )**[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://github.com/Roman68-roma/Termux.apk**
+> )**[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://github.com/Roman68-roma/Termux.apk)**
 
 > **RealVNC**
 >
